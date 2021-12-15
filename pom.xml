@@ -6,7 +6,7 @@
 	<modules>
 		<module>application</module>
 		<module>data</module>
-		<module>clean-domain-demo</module>
+		<module>some-project</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -15,7 +15,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ru.irlix</groupId>
-	<artifactId>clean-demo</artifactId>
+	<artifactId>clean-layers-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>clean-demo</name>
 	<description>Demo project for Spring Boot</description>
