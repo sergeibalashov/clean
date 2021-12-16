@@ -6,7 +6,6 @@
 	<modules>
 		<module>application</module>
 		<module>data</module>
-		<module>some-project</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
